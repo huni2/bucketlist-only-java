@@ -45,4 +45,4 @@ java com.bucket.hch.app.run.Application
  ---
 
 ## 🙋‍♂️ 개발자
-- 허창훈 ([@hch-huni2](https://github.com/hch-huni2))
+- 허창훈 ([@hch-huni2](https://github.com/huni2))
